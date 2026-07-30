@@ -18,6 +18,15 @@
 ]]></description>
     </item>
     <item>
+      <title>带鱼屏如何实现分屏显示？</title>
+      <link>https://iceb3.github.io/post/dai-yu-ping-ru-he-shi-xian-fen-ping-xian-shi/</link>
+      <guid isPermaLink="true">https://iceb3.github.io/post/dai-yu-ping-ru-he-shi-xian-fen-ping-xian-shi/</guid>
+      <pubDate>Thu, 11 Jun 2026 19:14:01 +0800</pubDate>
+      <description><![CDATA[<p>要求：两个窗口有各自的任务栏，互不影响，类似双屏的体验，但在一个显示器里实现。<br />
+目前没找到合适的方案。退而求其次，拿iPad分屏将就一下。</p>
+]]></description>
+    </item>
+    <item>
       <title>让结婚飞</title>
       <link>https://iceb3.github.io/post/rang-jie-hun-fei/</link>
       <guid isPermaLink="true">https://iceb3.github.io/post/rang-jie-hun-fei/</guid>
